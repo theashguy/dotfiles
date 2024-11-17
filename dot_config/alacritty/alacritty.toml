@@ -1,0 +1,11 @@
+general.import = [
+  "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+font.size = 13
+
+window.padding = { x = 10, y = 10 }
+window.decorations = "Buttonless"
+
+terminal.shell = "/opt/homebrew/bin/fish"
+
